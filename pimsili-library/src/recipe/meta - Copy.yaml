@@ -3,7 +3,7 @@ package:
   version: "2.6.2"
 
 source:
-  path: https://github.com/psurendrababu/PIMSILI/tree/master/pimsili-library/src
+  path: ../
 
 build:  
  
