@@ -1,0 +1,39 @@
+package:
+  name: pimsili
+  version: "2.6.2"
+
+source:
+  path: ../
+
+build:  
+ 
+  number: 1 
+ 
+
+requirements:
+  build:
+    - python>=3.6   
+  
+
+  run:
+    - python>=3.6  
+   
+    
+
+  
+about:
+  home: http://www.g2-is.com
+  license: G2 Integrated Solutions End User License Agreement
+  license_file: license.txt
+  summary: |
+    The Liquids HCA Tool is comprised of a Python module and Esri Python Toolbox containing tools that are used to determine which portions of the liquids pipeline could affect high consequence areas. These tools incorporate well understood and documented mathematical models for overland flow, gravity spread and hydrographic transport and provide a quantitative means for evaluating the fate of released products in common terrestrial settings.
+
+  description: |
+    This module analyzes jpeg/jpeg2000/png/gif image header and  return image size.
+    dev_url: https://github.com/shibukawa/imagesize_py
+    doc_url: https://pypi.python.org/pypi/imagesize
+    doc_source_url: https://github.com/shibukawa/imagesize_py/blob/master/README.rst
+
+
+
+    

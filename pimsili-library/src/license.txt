@@ -1,0 +1,299 @@
+END USER LICENSE AGREEMENT
+
+Unless otherwise agreed in a separate agreement signed by G2 Integrated Solutions, LLC (“G2-IS”) and 
+the organization agreeing to these terms (“Licensee”), this End User License Agreement (“EULA”) governs 
+the download, installation, or use of G2-IS’ software by Licensee or any accompanying documentation 
+(together, the “Software”). By clicking “I Agree”, by installing or otherwise using the Software, Licensee
+agrees to the terms of this EULA. If an individual is entering into this EULA on behalf of an organization 
+such organization shall be deemed Licensee and such individual represents and warrants that he has the power 
+and authority required to bind such organization to this EULA. 
+
+1. LICENSE GRANT. Conditioned to payment of the applicable fees and upon Licensee’s compliance with the 
+terms and conditions herein, G2-IS grants to Licensee a PERPETUAL (subject to clause 5), non-exclusive, 
+and nontransferable license to load, install and run machine readable copies of the Software, solely for 
+Licensee internal business use (the “License”). G2-IS reserves all rights in the Software not expressly 
+granted to Licensee in these terms and conditions. 
+
+2. PERMITTED USE. The license granted to Licensee in Article 1 gives Licensee permission to do the following:
+
+(a) display, perform or use the properly installed Software for the Software’s intended use as specified in 
+accompanying manuals and documentation to optimize Licensee assets for Licensee internal business operations;
+
+(b) collect data on Licensee assets and process that data in the Software to optimize those assets;
+
+(c) provided that Licensee reproduces all copyright and other proprietary notices, and retains and includes 
+all ownership and use restrictions that are on the original copy of the Software, Licensee may make copies 
+of the Software for backup purposes as part of Licensee’s normal computer data-backup routine; and
+
+(d) install the Software on non-production computer systems designated for disaster recovery, failover, staging 
+and/or testing, provided that the Software be used on non-production computer systems only during temporary periods 
+as required to carry out the designated purpose associated with the nonproduction computer systems. 
+
+Licensee must promptly notify G2-IS of any unauthorized use of the Software.
+
+3. LICENSE RESTRICTIONS. Except as expressly and unambiguously permitted by these terms and conditions,
+Licensee shall not: 
+
+(a) copy (except in the course of loading or installing) or modify the Software, including, 
+but not limited to, adding new features or otherwise making adaptations that alter the functioning of the Software; 
+
+(b) separate components of the Software for independent use or for use with other software, computer code, data or 
+information other than for expressly permitted uses under the License; 
+
+(c) make, alter, modify, adapt, translate, make derivate works of, copy, reproduce, publish, republish, upload, post, 
+repost, transmit, mirror, distribute or redistribute the Software in any way without G2-IS’ specific written consent; 
+
+(d) remove or permit the removal of any Legends, product identification marking or any patent, copyright, trademark, 
+or other proprietary or legal notice, on or in the Software or copies thereof; 
+
+(e) grant any security interest in or lien on the Software, or otherwise impose or permit any other obligations with 
+respect to the Software; 
+
+(f) transfer, sublicense, rent, lease, sublicense, lend or otherwise distribute the Software to any third party except; 
+
+(g) make the functionality of the Software available to users outside Licensee’s organization (including any contractors 
+or subcontractors) through any means, including, but not limited to, by uploading the Software to a network or file-sharing 
+service or through any hosting, application services provider, service bureau, software-as-a-service or any other type of services.
+Licensee acknowledges and agrees that portions of the Software, including, but not limited to, the source code and the
+specific design and structure of individual modules or programs, constitute or contain trade secrets of G2-IS and its
+licensors. Accordingly, Licensee agrees not to reverse engineer, disassemble, decompile, or discover the source code or
+underlying ideas, methods, processes or algorithms of the Software or any data or information contained in the Software,
+or create any derivative work of the Software, in whole or part, or permit or authorize a third party to do so, except to the
+extent such activities are expressly permitted by law notwithstanding this prohibition.
+
+4. OWNERSHIP OF SOFTWARE. Licensee’s copy of the Software is licensed, not sold. G2-IS retains ownership of
+the copyright, title and ownership of the Software and any accompanying written materials ("Documentation"), including
+all intellectual property rights therein, regardless of the form or media in or on which the original and other copies may exist.
+The Software is protected by United States copyright law and international treaties. Licensee will not delete or in any manner
+alter the copyright, trademark and other proprietary rights notices or markings appearing on or in the Software as
+delivered to Licensee.
+
+5. INJUNCTIVE RELIEF. Notwithstanding anything to the contrary in these terms and conditions, any breach of any
+provision of these terms and conditions regarding confidentiality, limitations of the License Grant or use of the
+Software or protection of Proprietary Rights of G2-IS or Confidential Information of G2-IS would constitute irreparable
+harm that is not fully compensable by money damages. G2-IS will be entitled to specific performance or injunctive relief or
+both, in addition to other remedies at law or in equity. G2-IS will also be entitled to obtain injunctive relief, restraining
+orders, specific performance, or other equitable relief as may be necessary or appropriate to prevent or curtail any breach,
+threatened or actual, without posting any bond or security. The remedies in this Section 5 are in addition to, and without
+prejudice to, any other rights or remedies G2-IS may have at law or in equity.
+
+6. TERMINATION. Any unauthorized use of the Software will breach these terms and conditions and will be
+grounds for termination. Should either Party become aware of any unauthorized use of the Software, then that Party shall
+notify the other Party as to this unauthorized use. Licensee shall then be given 30 days to remedy this unauthorized use.
+Should Licensee be unable to remedy, G2-IS shall provide notice to Licensee that G2-IS is entitled to terminate the
+License. The License will terminate immediately and without notice from G2-IS if Licensee fails to comply with the terms
+hereof. Upon termination of the License, Licensee will immediately uninstall and destroy all copies of the Software in Licensee
+possession or control.
+
+7. EXPRESS LIMITED 60-DAY WARRANTY. 
+Commencing on the Effective Date of the License and continuing for a period of sixty days (“Warranty Period”), 
+G2-IS warrants only that the Software will 
+
+(a) conform with all material operational features and performance characteristics expressly provided in the documentation 
+supplied by G2-IS, if any, and in any orders for work agreed and signed by G2-IS, if any, and 
+
+(b) be free of errors and defects that materially affect the performance of these features.
+
+The following requirements must be met for the Express Limited Warranty to apply:
+
+(a) Licensee will install, implement and operate the Software in accord with all written G2-IS instructions (provided through
+the user manual for the Software) and these terms and conditions;
+
+(b) During the Warranty Period Licensee will notify G2-IS in writing of any nonconformity, error or defect within 30 days of
+discovery; and
+
+(c) Licensee will promptly and properly install Software updates (subject to Licensee receiving the release notes from
+G2-IS prior to release of Software updates), if any, received from G2-IS. 
+
+If Licensee notifies G2-IS in writing (according to the previous Subpart) of any nonconformity, error, or defect in the Software, 
+G2-IS will provide telephone consultation on such nonconformity, error or defect, and G2-IS will at its sole and exclusive option repair or replace 
+the Software at G2-IS’ sole cost and expense. THE REMEDIES SET OUT IN THIS ARTICLE 7 ARE LICENSEE’S SOLE AND EXCLUSIVE
+REMEDIES AGAINST G2-IS AND ITS GROUP FOR BREACH OF THE EXPRESS LIMITED 60-DAY WARRANTY. “Group” means a Party and that Party’s
+ultimate parent and its subsidiaries and successors, and their officers, directors, employees, agents, subcontractors and
+representatives. 
+
+Notwithstanding any other provision of these terms and conditions to the contrary, the Express Limited 60-day
+Warranty will not apply to nonconformities, errors, or defects caused by:
+
+(a) use of the of the Software for a purpose, or in a manner, that is not consistent with the written instructions (provided
+through user documentation for the Software);
+
+(b) interactions with corrupt, incorrect, or otherwise incompatible data;
+
+(c) Licensee failure to utilize compatible computer and networking hardware and software in accordance with the
+specification provided by G2-IS;
+
+(d) interactions with software or firmware not provided by G2-IS;
+
+(e) any changes to Licensee operating-system software;
+
+(f) Licensee failure to install Software updates (subject to Licensee receiving the release notes from G2-IS prior to release
+of Software updates) provided by G2-IS; or
+
+(g) any other causes external to the Software not arising by reason of fault or negligence of G2-IS.
+
+G2-IS does not warranty or support any third party services and will not be responsible for any act or omission on the part of
+such third party or its service. Any and all warranties shall be void if the Software is damaged or rendered unserviceable by:
+
+(a) the acts or omissions by non- G2-IS personnel; 
+
+(b) misuse, theft, vandalism, fire, water, or other peril; and 
+
+(c) alterations or additions to the Software not authorized by G2-IS.
+
+G2-IS DOES NOT GUARANTEE THAT THE SOFTWARE WILL: PROVIDE ANY SPECIFIC RESULT OR THE
+RESULT LICENSEE DESIRES; MEET LICENSEE’S REQUIREMENTS; OPERATE IN THE COMBINATIONS
+THAT LICENSEE MAY SELECT FOR USE; OPERATE UNINTERRUPTED OR ERROR-FREE; BE WITHOUT
+BUGS; OR WORK ON LICENSEE’S COMPUTER SYSTEM, OR THAT ALL SOFTWARE ERRORS WILL BE CORRECTED.
+
+USERS MUST HAVE AND EXERCISE APPROPRIATE KNOWLEDGE AND EXPERTISE TO UTILIZE THE
+SOFTWARE AND ANY RESULTS OR OUTPUT FROM SAME. THE SOFTWARE IS NOT AN EXPERT SYSTEM
+AND RESULTS ARE NOT GUARANTEED. USERS MUST POSSESS AND APPLY SUFFICIENT
+KNOWLEDGE AND EXPERTISE TO OBTAIN ACCEPTABLE RESULTS. G2-IS DOES NOT HAVE ANY
+OBLIGATION OR LIABILITY FOR DAMAGES OF ANY TYPE RELATING TO ANY PARTY’S USE OR INABILITY
+TO USE THE SOFTWARE (EXCEPT AS EXPRESSLY STATED IN THESE TERMS AND CONDITIONS) OR
+INFORMATION FROM THE SOFTWARE. 
+
+LICENSEE ACKNOWLEDGES AND AGREES THAT NO REPRESENTATIONS OTHER THAN THOSE CONTAINED IN 
+THESE TERMS AND CONDITIONS HAVE BEEN MADE RESPECTING THE SOFTWARE OR SERVICES TO BE PROVIDED 
+UNDER THE LICENSE, AND THAT LICENSEE HAS NOT RELIED ON ANY REPRESENTATION NOT EXPRESSLY 
+SET OUT IN THESE TERMS AND CONDITIONS.
+
+8. NO OTHER WARRANTY. THIS SOFTWARE, DOCUMENTATION, SERVICE, SUPPORT, HOSTING,
+AND INFORMATION RELATED TO THE SOFTWARE ARE PROVIDED “AS IS,” WITHOUT WARRANTY OF
+ANY KIND. G2-IS DISCLAIMS, TO THE EXTENT ALLOWED BY LAW, ALL WARRANTIES AND
+CONDITIONS, EITHER EXPRESS OR IMPLIED, RELATING TO THE SOFTWARE, INCLUDING, BUT
+NOT LIMITED TO, ANY IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR
+A PARTICULAR PURPOSE (EVEN IF G2-IS HAS BEEN INFORMED OF THE PURPOSE) AND NONINFRINGEMENT, AND ANY WARRANTIES AND
+CONDITIONS ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE. G2-IS DOES NOT WARRANT
+THAT THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE. NO ORAL OR WRITTEN
+INFORMATION OR ADVICE OBTAINED FROM G2-IS OR ELSEWHERE SHALL CREATE ANY WARRANTY
+OR CONDITION NOT EXPRESSLY STATED IN THESE TERMS AND CONDITIONS.
+
+9. INDEMNITY. 
+
+9.1 Indemnification by G2-IS. G2-IS will RELEASE, DEFEND, INDEMNIFY AND HOLD Licensee HARMLESS
+during the term of the License from claims that G2-IS lacks the right or authority to license the Software or that the Software
+installed and used as specified and directed by G2-IS intentionally infringes any U.S. copyright, trade secret, or
+patent. This indemnity is conditioned on Licensee notifying G2-IS in writing within 10 days of Licensee becomes aware of
+any such claim and this indemnity does not apply to any modification not made by G2-IS or at G2-IS’ request. This
+indemnity also does not apply to content, processes, articles or information not supplied by G2-IS and does not apply to any
+continuing alleged infringement after being notified thereof or after being provided with a non-infringing substitute. This
+indemnity does not apply in the case of misuse of the Software or use of the Software in a manner not in accord with these
+terms and conditions or documentation supplied with the Software. Licensee authorizes G2-IS to defend, compromise,
+or settle the suit or claim to the extent G2-IS defends and indemnifies Licensee under these terms and conditions and
+Licensee will provide G2-IS all available information and reasonable or necessary assistance to enable G2-IS to defend
+any claim. This Article 9.1 states the exclusive remedy and entire liability of G2-IS with respect to any claimed
+infringement of any Proprietary Rights (defined below) by the Software or Licensee’s authorized use of the Software. G2-IS
+will RELEASE, DEFEND, INDEMNIFY AND HOLD Licensee HARMLESS during the term of the License from G2-IS’ own Consequential 
+Loss, arising from, relating to or in connection with the performance or non-performance under
+these terms and conditions.
+
+9.2 Indemnification by Licensee. Licensee will RELEASE, DEFEND, INDEMNIFY AND HOLD G2-IS HARMLESS
+from any claims, damages, liabilities, costs and fees (including reasonable attorney fees) arising from 
+
+(a) Licensee’s use or misuse of the Software, 
+
+(b) Licensee’s failure to comply with any term in these terms and conditions; 
+
+(c) any claim of infringement of any intellectual property right by any third party to the extent the claim involves articles, 
+information or software supplied, provided or modified by Licensee; 
+
+(d) any claim of infringement of any intellectual property rights by any third party to the extent the claim involves articles, 
+information or software supplied, provided or modified by or any third Party; and 
+
+(e) Licensee’s breach of the obligations under these terms and conditions. 
+
+Licensee will RELEASE, DEFEND, INDEMNIFY AND HOLD G2-IS HARMLESS during the term of the License from Licensee’s own Consequential 
+Loss, arising from, relating to or in connection with the performance or non-performance under these terms and conditions.
+
+For the purposes of this clause 9, Consequential Loss shall be defined as; loss and/or deferral of production, loss of product,
+loss of use, loss of revenue, profit or anticipated profit (if any) whether or not foreseeable at the commencement of the License
+and shall also include incidental, punitive, exemplary, and indirect damages.
+
+10. AUDIT RIGHTS. G2-IS may, upon reasonable notice and at their expense, audit during business hours Licensee’s use
+of the Software according to the terms and conditions herein. If an audit determines that Licensee distributed, disseminated,
+copied or used the Software contrary to these terms and conditions, G2-IS will provide Licensee with notice to remedy
+this breach within 30 days of the notice. Should Licensee be unable to remedy this breach, then G2-IS will provide an
+estimate for the additional license costs and submit to Licensee for discussion of reimbursement of G2-IS.
+
+11. EXPORT LAW. Licensee agrees to comply fully with all U.S. export laws and regulations to ensure that neither the
+Software nor any technical data related thereto nor any direct product thereof are exported or re-exported directly or
+indirectly in violation of, or used for any purposes prohibited by, such laws and regulations.
+
+12. LIMITATION OF LIABILITY. “Affiliate” means, with respect to a Party, any entity that controls or is controlled
+by such Party, or is under common control with such Party. For purposes of this definition, an entity shall be deemed to
+control another entity if it owns or controls, directly or indirectly, at least fifty percent (50%) of the voting equity of
+another entity (or other comparable interest for an entity other than a corporation). Notwithstanding anything to the contrary
+in these terms and conditions and only except as provided in Article 9.1 herein, G2-IS’ total aggregate liability for loss or
+damage arising under or in connection with the License whether based in contract, tort (including negligence), strict
+liability, indemnity, or any other legal theory and whether in favor of Licensee, one of Licensee’s Affiliates, a third party, or
+otherwise, including all attorney’s fees and costs at trial and on appeal and to prove indemnity, is limited to the lesser of the
+amount equal to the total fees charged to Licensee by G2-IS for the Software or $100,000 (one hundred thousand dollars) and
+Licensee will RELEASE, DEFEND, PROTECT, INDEMNIFY, and HOLD HARMLESS G2-IS from any liability in excess of this amount.
+
+13. TITLE AND OWNERSHIP.
+
+13.1 “Proprietary Rights” means all rights granted or held worldwide by the Parties or its Group through international
+agreement, contract or individual government grant under patent, copyright, neighboring rights, industrial design, trade
+secret, moral rights, database protection, trademark, publicity rights, contract or registration law or remedies of any kind.
+Neither Party intends to transfer or sell any of its intellectual property rights under these terms and conditions.
+
+13.2 As between G2-IS, Licensee, or any third party, ownership of and title to Proprietary Rights, Confidential
+Information or modifications related to or embodied therein or in the Software will remain wholly owned by G2-IS, subject
+only to the License granted to Licensee under these terms and conditions. Notwithstanding any other term or condition
+herein, any right or privilege Licensee has to copy or reproduce the Software is subject to the following conditions:
+
+(a) G2-IS retains or is provided all right, title, and interest in and to any copies or reproductions of the Software, 
+in whole or in part; or,
+
+(b) to the extent that G2-IS cannot or does not retain or obtain all right, title, and interest in and to any copies or reproductions
+of the Software, Licensee expressly, unconditionally, and irrevocably waives and releases every right, power, privilege
+and immunity Licensee may have under applicable law (including U.S. copyright law under 17 U.S.C. §§ 109 and 117),
+whether express or implied, to distribute copies or reproductions to or allow use by another person or entity not
+expressly authorized under these terms and conditions, or to copy or modify the Software, in whole or in part. 
+
+13.3 All Proprietary Rights in any reports, document, graphs, charts, photographs or any other material (in whatever
+medium) (“Reports”) produced as an output of the Software based on Licensee’s information pursuant to these terms and
+conditions shall belong to Licensee. Licensee agrees and acknowledges that G2-IS retains any and all Proprietary Rights
+in concepts, ideas and inventions that may arise during the preparation or provision of any Report (including any
+deliverables provided by G2-IS to Licensee) and the provision of services to Licensee. Licensee acknowledges that G2-IS may
+retain all materials necessary to document the services in its archives for evidentiary purposes.
+
+14. CONFIDENTIALITY. Licensee agrees that the Software and the fee arrangements between Licensee and G2-IS
+embody valuable trade secrets, copyright, confidential information, Proprietary Rights and other intellectual property
+consisting of, but not limited to, algorithms, logic, design, look and feel, display, process and coding methodology proprietary
+to G2-IS (“Confidential Information”). Licensee will safeguard the confidentiality of the Software, Proprietary Rights and
+Confidential Information, using the same standard of care that Licensee uses for Licensee’s own confidential materials but not
+less than reasonable care, and Licensee will not allow access to the Software, Proprietary Information or Confidential
+Information by third parties (except those otherwise bound by the same confidentiality obligations and restrictions contained
+in these terms and conditions and who are authorized to use the Software) without the prior written consent of G2-IS.
+
+15. ASSIGNMENT, SUBCONTRACTING, OUTSOURCING. Licensee may not assign, transfer, delegate, allocate, subcontract or outsource 
+the License or any of Licensee’s rights, interests, works, or obligations under these terms and conditions whether voluntarily 
+or by operation of law (including but not limited to any change occurring by way of sale of assets, change of control, 
+merger, or consolidation, or other form of reorganization), without G2-IS' prior written consent, unless Licensee assigns, 
+transfers, delegates, allocates, subcontracts the License to one of Licensee Affiliates. In any permitted assignment, transfer, 
+assumption, delegation, subcontract, outsource, allocation or vesting, the succeeding person or entity must agree in writing 
+delivered to G2-IS to be bound by and to fully assume all Licensee’s rights and obligations under these terms and conditions. 
+Any attempted assignment, transfer, assumption, delegation, allocation, subcontract, outsource or vesting in contravention of this
+Article will be null, void and without effect. G2-IS may assign the License to its Affiliates or to any successor in an
+acquisition, merger, reorganization, or consolidation.
+
+16. FORCE MAJEURE. Neither party will be liable for damages for any delay or failure of delivery arising out of
+causes beyond their reasonable control, for Acts of God, acts of civil or military authority, fires, riots, wars, embargoes, or
+communications failures (“Force Majeure”).
+
+17. CHOICE OF LAW AND VENUE. These terms and conditions will be construed according to the laws of the State
+of Texas, USA and venue for any action involving these terms and conditions shall be in the state district courts of Harris
+County, Texas.
+
+18. ENTIRE AGREEMENT. These terms and conditions represent the entire agreement between the parties and
+supersede any prior agreements, whether written or oral, and may be amended or modified only by a written amendment
+signed by both parties.
+
+19. MISCELLANEOUS. Unless otherwise expressly stated in these terms and conditions, the failure of either Party to
+enforce at any time any term or condition herein will not be a waiver of the provision, or any other provision, or of the right
+of the Party to enforce any provision in these terms and conditions. All remedies available to G2-IS for breach of these
+terms and conditions are cumulative and may be exercised concurrently or separately, and the exercise of any one remedy
+will not be deemed an election of that remedy to the exclusion of any other remedies. 
